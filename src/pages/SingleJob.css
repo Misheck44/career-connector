@@ -1,0 +1,7 @@
+.content-container {
+    display: flex; /* Enable flexbox for the container */
+    flex-direction: column; /* Stack elements vertically */
+    min-height: 10vh; /* Set minimum height to viewport height */
+    justify-content: space-between; /* Align content at the top and bottom */
+  }
+  

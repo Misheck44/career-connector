@@ -1,5 +1,23 @@
 # Getting Started with Create React App
 
+#### login details:
+recruiter1@gmail.com
+Recruiter1#123456
+
+#### User:
+user1@gmail.com
+User2468
+
+user1@gmail.com
+User2468.
+
+#### Admin 
+admin@gmail.com
+Admin1#123456
+
+##### user2@gmail.com
+User2#123456
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -68,3 +86,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# career-connector
